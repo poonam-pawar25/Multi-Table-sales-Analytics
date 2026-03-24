@@ -6,6 +6,7 @@ Developed an interactive Sales Performance Dashboard using Power BI by integrati
 This project focuses on building an interactive Sales Performance Dashboard using Power BI. The dashboard integrates multiple datasets to analyze sales performance and generate meaningful business insights for better decision-making.
 
 #Objectives
+
 -Analyze overall sales performance
 -Track customer and product trends
 -Monitor employee-wise sales contribution
